@@ -54,7 +54,7 @@ Android-приложение для поиска вакансий. Реализ�
 
 **Стек:** Kotlin • Compose • Hilt • Room • Retrofit • MVVM
 
-➡️ Репозиторий *(добавим ссылку)*
+➡️ Репозиторий *https://github.com/LampJuice/ShoppingList-Android*
 
 ---
 
