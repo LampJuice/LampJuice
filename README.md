@@ -2,145 +2,74 @@
 
 Меня зовут **Антон Сальников**, я **Junior Android-разработчик**.
 
-Разрабатываю Android-приложения на **Kotlin**, используя современные подходы к проектированию и разработке. Есть опыт командной разработки, построения архитектуры приложений, создания пользовательских интерфейсов, реализации бизнес-логики, проведения code review и поддержки существующего кода.
+Разрабатываю Android-приложения на Kotlin. Есть опыт командной разработки, проектирования архитектуры, создания пользовательских интерфейсов, реализации бизнес-логики, проведения code review и поддержки существующего кода.
 
-В настоящее время открыт к предложениям на позицию **Junior Android Developer**.
-
----
-
-# 🛠️ Технологии
-
-### Язык программирования
-- Kotlin
-
-### Android
-- Android SDK
-- Jetpack Compose
-- XML
-- Activity / Fragment
-- MVVM
-- Clean Architecture
-
-### Асинхронность
-- Coroutines
-- Flow
-
-### Работа с данными
-- Retrofit
-- REST API
-- Room
-
-### Dependency Injection
-- Hilt
-- Koin
-
-### Инструменты
-- Git
-- GitHub
-- GitLab
-- Android Studio
-- Figma
+**Открыт к предложениям на позицию Junior Android Developer.**
 
 ---
 
-# 💼 Проекты
+## 📫 Контакты
 
-## 🔎 Поиск вакансий
+📧 **Email:** dieez347@yandex.ru
 
-Android-приложение для поиска вакансий.
+💬 **Telegram:** @TonylSal
 
-### Что было сделано
+🐙 **GitHub:** https://github.com/LampJuice
 
-- реализованы пользовательские экраны по макетам Figma;
-- разработана часть бизнес-логики приложения;
-- выполнен рефакторинг структуры проекта;
-- поддерживалась архитектура приложения;
-- проводилось code review;
-- исправлялись ошибки и улучшалась стабильность приложения.
-
-**Стек:** Kotlin • Jetpack Compose • Coroutines • Retrofit • Room • Koin • MVVM • Clean Architecture
-
-👉 **Репозиторий:** *(добавлю ссылку после оформления README проекта)*
+🦊 **GitLab:** https://gitlab.com/dieez347
 
 ---
 
-## 🛒 ShoppingList
+## 🛠️ Стек
 
-Android-приложение для управления списками покупок.
-
-### Что было сделано
-
-- разработан UI Kit проекта;
-- реализованы пользовательские интерфейсы на Jetpack Compose;
-- разработана бизнес-логика приложения;
-- внедрена функциональность Drag & Drop;
-- адаптирована сторонняя библиотека под архитектуру проекта;
-- проводилось code review и исправление ошибок.
-
-**Стек:** Kotlin • Jetpack Compose • Coroutines • Retrofit • Room • Hilt • MVVM • Clean Architecture
-
-👉 **Репозиторий:** *(добавлю ссылку после оформления README проекта)*
-
----
-
-## 🎵 PlaylistMaker
-
-Учебный проект.
-
-Приложение для поиска музыкальных треков с возможностью просмотра истории поиска и сохранения избранного.
-
-### Что реализовано
-
-- пользовательские экраны;
-- работа с REST API;
-- локальное хранение данных;
-- обработка состояний UI;
-- архитектура MVVM.
-
-**Стек:** Kotlin • Jetpack Compose • Retrofit • Room • Coroutines
-
-👉 **Репозиторий:** *(добавлю ссылку после оформления README проекта)*
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge)
+![XML](https://img.shields.io/badge/XML-FF9800?style=for-the-badge)
+![MVVM](https://img.shields.io/badge/MVVM-blue?style=for-the-badge)
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-6A1B9A?style=for-the-badge)
+![Coroutines](https://img.shields.io/badge/Coroutines-009688?style=for-the-badge)
+![Flow](https://img.shields.io/badge/Flow-00ACC1?style=for-the-badge)
+![Room](https://img.shields.io/badge/Room-3DDC84?style=for-the-badge)
+![Retrofit](https://img.shields.io/badge/Retrofit-000000?style=for-the-badge)
+![Hilt](https://img.shields.io/badge/Hilt-1976D2?style=for-the-badge)
+![Koin](https://img.shields.io/badge/Koin-5E35B1?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 📅 ShiftTracker
+## 📱 Основные проекты
 
-Pet-проект.
+### 🔎 Поиск вакансий
+Android-приложение для поиска вакансий. Реализовал UI по Figma, бизнес-логику, рефакторинг архитектуры, работу с REST API и Room.
 
-Приложение для учёта рабочих смен сотрудников.
+**Стек:** Kotlin • Compose • Retrofit • Room • Koin • MVVM
 
-### Что реализовано
-
-- хранение информации о сменах;
-- пользовательские сценарии;
-- локальные уведомления;
-- архитектура приложения.
-
-**Стек:** Kotlin • Jetpack Compose • Room • Coroutines
-
-👉 **Репозиторий:** *(добавлю ссылку после оформления README проекта)*
+➡️ Репозиторий *(добавим ссылку)*
 
 ---
 
-# 📚 Сейчас изучаю
+### 🛒 ShoppingList
+Приложение для управления списками покупок. Разрабатывал UI Kit, бизнес-логику, реализовал Drag & Drop и поддерживал архитектуру проекта.
 
-- многомодульную архитектуру Android-приложений;
-- тестирование Android-приложений;
-- лучшие практики разработки;
-- современные возможности Jetpack Compose.
+**Стек:** Kotlin • Compose • Hilt • Room • Retrofit • MVVM
 
----
-
-# 📫 Контакты
-
-📧 Email: **dieez347@yandex.ru**
-
-💬 Telegram: **@TonylSal**
-
-🐙 GitHub: https://github.com/LampJuice
-
-🦊 GitLab: https://gitlab.com/dieez347
+➡️ Репозиторий *(добавим ссылку)*
 
 ---
 
-Спасибо, что заглянули в мой профиль! Буду рад новым профессиональным знакомствам и предложениям по Android-разработке.
+### 🎵 PlaylistMaker
+Учебный проект по поиску музыкальных треков.
+
+**Стек:** Kotlin • Compose • Retrofit • Room
+
+➡️ Репозиторий *(добавим ссылку)*
+
+---
+
+### 📅 ShiftTracker
+Pet-проект для учёта рабочих смен.
+
+**Стек:** Kotlin • Compose • Room • Coroutines
+
+➡️ Репозиторий *(добавим ссылку)*
