@@ -72,4 +72,4 @@ Pet-проект для учёта рабочих смен.
 
 **Стек:** Kotlin • Compose • Room • Coroutines
 
-➡️ Репозиторий *(добавим ссылку)*
+➡️ Репозиторий *https://github.com/LampJuice/ShiftTracker*
