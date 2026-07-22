@@ -45,7 +45,7 @@ Android-приложение для поиска вакансий. Реализ�
 
 **Стек:** Kotlin • Compose • Retrofit • Room • Koin • MVVM
 
-➡️ Репозиторий *(добавим ссылку)*
+➡️ Репозиторий *https://github.com/LampJuice/vacancy-search*
 
 ---
 
